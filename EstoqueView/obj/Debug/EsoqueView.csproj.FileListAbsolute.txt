@@ -1,0 +1,47 @@
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\obj\Debug\EsoqueView.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\obj\Debug\EsoqueView.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\obj\Debug\Almoxarifado.frmEstoque.resources
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\obj\Debug\EstoqueView.Properties.Resources.resources
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\obj\Debug\EsoqueView.csproj.GenerateResource.cache
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\EstoqueView.exe.config
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\EstoqueView.exe.manifest
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\EstoqueView.application
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\EstoqueView.exe
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\EstoqueView.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\colaboradoreModel.dll
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\ColaboradoresControle.dll
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\Conexao.dll
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\EstoqueControle.dll
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\HistoricoControle.dll
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\HistoricoModel.dll
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\HistoricoView.exe
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\UsuariosModel.dll
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\EstoqueModel.dll
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\colaboradoreModel.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\ColaboradoresControle.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\Conexao.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\HistoricoControle.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\HistoricoModel.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\HistoricoView.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\HistoricoView.exe.config
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\UsuariosModel.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\EstoqueControle.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\bin\Debug\EstoqueModel.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\obj\Debug\EsoqueView.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\obj\Debug\EstoqueView.exe.manifest
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\obj\Debug\EstoqueView.application
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\obj\Debug\EsoqueView.csproj.CopyComplete
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\obj\Debug\EstoqueView.exe
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueView\obj\Debug\EstoqueView.pdb
+C:\Users\diogo\Desktop\Controle de estoque\EstoqueView\obj\Debug\EstoqueView.SaidaView.resources
+C:\Users\diogo\Desktop\Controle de estoque\EstoqueView\bin\Debug\SaidaControle.dll
+C:\Users\diogo\Desktop\Controle de estoque\EstoqueView\bin\Debug\SaidaControle.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\EstoqueView\obj\Debug\EsoqueView.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\GaleriaVidro\EstoqueView\obj\Debug\EsoqueView.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogo\Desktop\GaleriaVidro\EstoqueView\obj\Debug\Almoxarifado.frmEstoque.resources
+C:\Users\diogo\Desktop\GaleriaVidro\EstoqueView\obj\Debug\EstoqueView.Properties.Resources.resources
+C:\Users\diogo\Desktop\GaleriaVidro\EstoqueView\obj\Debug\EstoqueView.SaidaView.resources
+C:\Users\diogo\Desktop\GaleriaVidro\EstoqueView\obj\Debug\EsoqueView.csproj.GenerateResource.cache
+C:\Users\diogo\Desktop\GaleriaVidro\EstoqueView\obj\Debug\EsoqueView.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\GaleriaVidro\EstoqueView\obj\Debug\EstoqueView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\EstoqueView\obj\Debug\EstoqueView.pdb

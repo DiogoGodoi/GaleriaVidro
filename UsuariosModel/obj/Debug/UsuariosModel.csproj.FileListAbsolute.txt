@@ -1,0 +1,6 @@
+C:\Users\diogo\Desktop\Controle de Estoque\UsuariosModel\bin\Debug\UsuariosModel.dll
+C:\Users\diogo\Desktop\Controle de Estoque\UsuariosModel\bin\Debug\UsuariosModel.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\UsuariosModel\obj\Debug\UsuariosModel.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\Controle de Estoque\UsuariosModel\obj\Debug\UsuariosModel.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\Controle de Estoque\UsuariosModel\obj\Debug\UsuariosModel.dll
+C:\Users\diogo\Desktop\Controle de Estoque\UsuariosModel\obj\Debug\UsuariosModel.pdb

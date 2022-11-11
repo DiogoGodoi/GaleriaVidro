@@ -1,0 +1,11 @@
+C:\Users\diogo\Desktop\Controle de Estoque\ColaboradoresControle\bin\Debug\ColaboradoresControle.dll
+C:\Users\diogo\Desktop\Controle de Estoque\ColaboradoresControle\bin\Debug\ColaboradoresControle.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\ColaboradoresControle\bin\Debug\colaboradoreModel.dll
+C:\Users\diogo\Desktop\Controle de Estoque\ColaboradoresControle\bin\Debug\Conexao.dll
+C:\Users\diogo\Desktop\Controle de Estoque\ColaboradoresControle\bin\Debug\colaboradoreModel.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\ColaboradoresControle\bin\Debug\Conexao.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\ColaboradoresControle\obj\Debug\ColaboradoresControle.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\Controle de Estoque\ColaboradoresControle\obj\Debug\ColaboradoresControle.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\Controle de Estoque\ColaboradoresControle\obj\Debug\ColaboradoresControle.csproj.CopyComplete
+C:\Users\diogo\Desktop\Controle de Estoque\ColaboradoresControle\obj\Debug\ColaboradoresControle.dll
+C:\Users\diogo\Desktop\Controle de Estoque\ColaboradoresControle\obj\Debug\ColaboradoresControle.pdb

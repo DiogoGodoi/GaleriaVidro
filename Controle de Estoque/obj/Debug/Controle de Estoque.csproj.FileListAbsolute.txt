@@ -1,0 +1,130 @@
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\obj\Debug\Controle de Estoque.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\obj\Debug\Controle de Estoque.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\obj\Debug\Controle_de_Estoque.Login.resources
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\obj\Debug\Controle_de_Estoque.Properties.Resources.resources
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\obj\Debug\Controle de Estoque.csproj.GenerateResource.cache
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\Controle de Estoque.exe.config
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\Controle de Estoque.exe.manifest
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\Controle de Estoque.application
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\Controle de Estoque.exe
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\Controle de Estoque.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\Controle de Estoque.exe.CodeAnalysisLog.xml
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\Controle de Estoque.exe.lastcodeanalysissucceeded
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\EstoqueView.exe
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\MenuView.exe
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\UsuariosControler.dll
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\UsuariosModel.dll
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\EstoqueControle.dll
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\HistoricoControle.dll
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\HistoricoModel.dll
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\ColaboradoresControle.dll
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\HistoricoView.exe
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\CadastrarInsumoView.exe
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\CadastrarUsuarioView.exe
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\CadastrarColaboradorView.exe
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\Conexao.dll
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\EstoqueModel.dll
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\colaboradoreModel.dll
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\EstoqueView.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\EstoqueView.exe.config
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\MenuView.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\MenuView.exe.config
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\UsuariosControler.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\UsuariosModel.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\EstoqueControle.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\HistoricoControle.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\HistoricoModel.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\ColaboradoresControle.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\HistoricoView.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\HistoricoView.exe.config
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\CadastrarInsumoView.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\CadastrarInsumoView.exe.config
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\CadastrarUsuarioView.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\CadastrarUsuarioView.exe.config
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\CadastrarColaboradorView.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\CadastrarColaboradorView.exe.config
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\Conexao.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\EstoqueModel.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\colaboradoreModel.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\obj\Debug\Controle de Estoque.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\obj\Debug\Controle de Estoque.TrustInfo.xml
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\obj\Debug\Controle de Estoque.exe.manifest
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\obj\Debug\Controle de Estoque.application
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\obj\Debug\Controle de Estoque.csproj.CopyComplete
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\obj\Debug\Controle de Estoque.exe
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\obj\Debug\Controle de Estoque.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\MenuHistoricoView.exe
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\RelatoriosControle.dll
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\itextsharp.dll
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\MenuHistoricoView.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\MenuHistoricoView.exe.config
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\RelatoriosControle.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Controle de Estoque\bin\Debug\itextsharp.xml
+C:\Users\diogo\Desktop\Controle de estoque\Controle de Estoque\bin\Debug\SaidaControle.dll
+C:\Users\diogo\Desktop\Controle de estoque\Controle de Estoque\bin\Debug\SaidaControle.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\Controle de Estoque.exe.config
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\Controle de Estoque.exe.manifest
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\Controle de Estoque.application
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\Controle de Estoque.exe
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\Controle de Estoque.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\Controle de Estoque.exe.CodeAnalysisLog.xml
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\Controle de Estoque.exe.lastcodeanalysissucceeded
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\EstoqueView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\MenuView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\UsuariosControler.dll
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\UsuariosModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\EstoqueControle.dll
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\HistoricoControle.dll
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\HistoricoModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\ColaboradoresControle.dll
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\SaidaControle.dll
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\HistoricoView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\MenuHistoricoView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\CadastrarInsumoView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\CadastrarUsuarioView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\CadastrarColaboradorView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\Conexao.dll
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\EstoqueModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\colaboradoreModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\RelatoriosControle.dll
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\itextsharp.dll
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\EstoqueView.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\EstoqueView.exe.config
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\MenuView.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\MenuView.exe.config
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\UsuariosControler.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\UsuariosModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\EstoqueControle.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\HistoricoControle.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\HistoricoModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\ColaboradoresControle.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\SaidaControle.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\HistoricoView.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\HistoricoView.exe.config
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\MenuHistoricoView.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\MenuHistoricoView.exe.config
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\CadastrarInsumoView.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\CadastrarInsumoView.exe.config
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\CadastrarUsuarioView.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\CadastrarUsuarioView.exe.config
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\CadastrarColaboradorView.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\CadastrarColaboradorView.exe.config
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\Conexao.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\EstoqueModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\colaboradoreModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\RelatoriosControle.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\bin\Debug\itextsharp.xml
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\obj\Debug\Controle de Estoque.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\obj\Debug\Controle de Estoque.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\obj\Debug\Controle_de_Estoque.Login.resources
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\obj\Debug\Controle_de_Estoque.Properties.Resources.resources
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\obj\Debug\Controle de Estoque.csproj.GenerateResource.cache
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\obj\Debug\Controle de Estoque.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\obj\Debug\Controle de Estoque.TrustInfo.xml
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\obj\Debug\Controle de Estoque.exe.manifest
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\obj\Debug\Controle de Estoque.application
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\obj\Debug\Controle de Estoque.csproj.CopyComplete
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\obj\Debug\Controle de Estoque.exe
+C:\Users\diogo\Desktop\GaleriaVidro\Controle de Estoque\obj\Debug\Controle de Estoque.pdb

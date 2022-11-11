@@ -1,0 +1,6 @@
+C:\Users\diogo\Desktop\Controle de estoque\SaidaControle\bin\Debug\SaidaControle.dll
+C:\Users\diogo\Desktop\Controle de estoque\SaidaControle\bin\Debug\SaidaControle.pdb
+C:\Users\diogo\Desktop\Controle de estoque\SaidaControle\obj\Debug\MovimentacaoControle.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\Controle de estoque\SaidaControle\obj\Debug\MovimentacaoControle.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\Controle de estoque\SaidaControle\obj\Debug\SaidaControle.dll
+C:\Users\diogo\Desktop\Controle de estoque\SaidaControle\obj\Debug\SaidaControle.pdb

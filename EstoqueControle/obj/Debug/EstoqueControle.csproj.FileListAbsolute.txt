@@ -1,0 +1,11 @@
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueControle\bin\Debug\EstoqueControle.dll
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueControle\bin\Debug\EstoqueControle.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueControle\bin\Debug\Conexao.dll
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueControle\bin\Debug\EstoqueModel.dll
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueControle\bin\Debug\Conexao.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueControle\bin\Debug\EstoqueModel.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueControle\obj\Debug\EstoqueControle.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueControle\obj\Debug\EstoqueControle.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueControle\obj\Debug\EstoqueControle.csproj.CopyComplete
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueControle\obj\Debug\EstoqueControle.dll
+C:\Users\diogo\Desktop\Controle de Estoque\EstoqueControle\obj\Debug\EstoqueControle.pdb

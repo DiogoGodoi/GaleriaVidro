@@ -1,0 +1,11 @@
+C:\Users\diogo\Desktop\Controle de Estoque\HistoricoControle\bin\Debug\HistoricoControle.dll
+C:\Users\diogo\Desktop\Controle de Estoque\HistoricoControle\bin\Debug\HistoricoControle.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\HistoricoControle\bin\Debug\Conexao.dll
+C:\Users\diogo\Desktop\Controle de Estoque\HistoricoControle\bin\Debug\HistoricoModel.dll
+C:\Users\diogo\Desktop\Controle de Estoque\HistoricoControle\bin\Debug\Conexao.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\HistoricoControle\bin\Debug\HistoricoModel.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\HistoricoControle\obj\Debug\HistoricoControle.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\Controle de Estoque\HistoricoControle\obj\Debug\HistoricoControle.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\Controle de Estoque\HistoricoControle\obj\Debug\HistoricoControle.csproj.CopyComplete
+C:\Users\diogo\Desktop\Controle de Estoque\HistoricoControle\obj\Debug\HistoricoControle.dll
+C:\Users\diogo\Desktop\Controle de Estoque\HistoricoControle\obj\Debug\HistoricoControle.pdb

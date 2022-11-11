@@ -1,0 +1,6 @@
+C:\Users\diogo\Desktop\Controle de Estoque\Conexao\bin\Debug\Conexao.dll
+C:\Users\diogo\Desktop\Controle de Estoque\Conexao\bin\Debug\Conexao.pdb
+C:\Users\diogo\Desktop\Controle de Estoque\Conexao\obj\Debug\ConexaoControle.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\Controle de Estoque\Conexao\obj\Debug\ConexaoControle.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\Controle de Estoque\Conexao\obj\Debug\Conexao.dll
+C:\Users\diogo\Desktop\Controle de Estoque\Conexao\obj\Debug\Conexao.pdb
