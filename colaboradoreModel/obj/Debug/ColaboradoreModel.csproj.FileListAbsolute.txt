@@ -4,3 +4,9 @@ C:\Users\diogo\Desktop\Controle de Estoque\colaboradoreModel\obj\Debug\Colaborad
 C:\Users\diogo\Desktop\Controle de Estoque\colaboradoreModel\obj\Debug\ColaboradoreModel.csproj.CoreCompileInputs.cache
 C:\Users\diogo\Desktop\Controle de Estoque\colaboradoreModel\obj\Debug\colaboradoreModel.dll
 C:\Users\diogo\Desktop\Controle de Estoque\colaboradoreModel\obj\Debug\colaboradoreModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\colaboradoreModel\bin\Debug\colaboradoreModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\colaboradoreModel\bin\Debug\colaboradoreModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\colaboradoreModel\obj\Debug\ColaboradoreModel.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\GaleriaVidro\colaboradoreModel\obj\Debug\ColaboradoreModel.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\GaleriaVidro\colaboradoreModel\obj\Debug\colaboradoreModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\colaboradoreModel\obj\Debug\colaboradoreModel.pdb

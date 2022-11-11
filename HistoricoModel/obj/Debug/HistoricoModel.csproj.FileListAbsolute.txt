@@ -4,3 +4,9 @@ C:\Users\diogo\Desktop\Controle de Estoque\HistoricoModel\obj\Debug\HistoricoMod
 C:\Users\diogo\Desktop\Controle de Estoque\HistoricoModel\obj\Debug\HistoricoModel.csproj.CoreCompileInputs.cache
 C:\Users\diogo\Desktop\Controle de Estoque\HistoricoModel\obj\Debug\HistoricoModel.dll
 C:\Users\diogo\Desktop\Controle de Estoque\HistoricoModel\obj\Debug\HistoricoModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoModel\bin\Debug\HistoricoModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoModel\bin\Debug\HistoricoModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoModel\obj\Debug\HistoricoModel.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoModel\obj\Debug\HistoricoModel.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoModel\obj\Debug\HistoricoModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoModel\obj\Debug\HistoricoModel.pdb

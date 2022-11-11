@@ -16,3 +16,21 @@ C:\Users\diogo\Desktop\Controle de Estoque\CadastrarInsumoView\obj\Debug\Cadastr
 C:\Users\diogo\Desktop\Controle de Estoque\CadastrarInsumoView\obj\Debug\CadastrarInsumoView.csproj.CopyComplete
 C:\Users\diogo\Desktop\Controle de Estoque\CadastrarInsumoView\obj\Debug\CadastrarInsumoView.exe
 C:\Users\diogo\Desktop\Controle de Estoque\CadastrarInsumoView\obj\Debug\CadastrarInsumoView.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\bin\Debug\CadastrarInsumoView.exe.config
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\bin\Debug\CadastrarInsumoView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\bin\Debug\CadastrarInsumoView.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\bin\Debug\EstoqueControle.dll
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\bin\Debug\EstoqueModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\bin\Debug\Conexao.dll
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\bin\Debug\EstoqueControle.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\bin\Debug\EstoqueModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\bin\Debug\Conexao.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\obj\Debug\CadastrarInsumoView.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\obj\Debug\CadastrarInsumoView.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\obj\Debug\CadastrarInsumoView.Properties.Resources.resources
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\obj\Debug\CadastrarInsumoView.TelaCadastroInsumo.resources
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\obj\Debug\CadastrarInsumoView.csproj.GenerateResource.cache
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\obj\Debug\CadastrarInsumoView.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\obj\Debug\CadastrarInsumoView.csproj.CopyComplete
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\obj\Debug\CadastrarInsumoView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarInsumoView\obj\Debug\CadastrarInsumoView.pdb

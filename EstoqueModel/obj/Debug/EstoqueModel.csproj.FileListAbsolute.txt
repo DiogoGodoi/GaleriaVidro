@@ -4,3 +4,9 @@ C:\Users\diogo\Desktop\Controle de Estoque\EstoqueModel\obj\Debug\EstoqueModel.c
 C:\Users\diogo\Desktop\Controle de Estoque\EstoqueModel\obj\Debug\EstoqueModel.csproj.CoreCompileInputs.cache
 C:\Users\diogo\Desktop\Controle de Estoque\EstoqueModel\obj\Debug\EstoqueModel.dll
 C:\Users\diogo\Desktop\Controle de Estoque\EstoqueModel\obj\Debug\EstoqueModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\EstoqueModel\bin\Debug\EstoqueModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\EstoqueModel\bin\Debug\EstoqueModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\EstoqueModel\obj\Debug\EstoqueModel.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\GaleriaVidro\EstoqueModel\obj\Debug\EstoqueModel.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\GaleriaVidro\EstoqueModel\obj\Debug\EstoqueModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\EstoqueModel\obj\Debug\EstoqueModel.pdb

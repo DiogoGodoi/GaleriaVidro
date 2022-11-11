@@ -25,3 +25,30 @@ C:\Users\diogo\Desktop\Controle de Estoque\MenuHistoricoView\obj\Debug\Relatorio
 C:\Users\diogo\Desktop\Controle de Estoque\MenuHistoricoView\obj\Debug\RelatoriosView.csproj.CopyComplete
 C:\Users\diogo\Desktop\Controle de Estoque\MenuHistoricoView\obj\Debug\MenuHistoricoView.exe
 C:\Users\diogo\Desktop\Controle de Estoque\MenuHistoricoView\obj\Debug\MenuHistoricoView.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\MenuHistoricoView.exe.config
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\MenuHistoricoView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\MenuHistoricoView.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\ColaboradoresControle.dll
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\HistoricoControle.dll
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\itextsharp.dll
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\RelatoriosControle.dll
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\colaboradoreModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\Conexao.dll
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\HistoricoModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\ColaboradoresControle.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\HistoricoControle.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\RelatoriosControle.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\itextsharp.xml
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\colaboradoreModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\Conexao.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\bin\Debug\HistoricoModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\obj\Debug\RelatoriosView.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\obj\Debug\RelatoriosView.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\obj\Debug\MenuHistoricoView.Properties.Resources.resources
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\obj\Debug\MenuHistoricoView.TelaRelatorios.resources
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\obj\Debug\RelatoriosView.csproj.GenerateResource.cache
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\obj\Debug\RelatoriosView.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\obj\Debug\RelatoriosView.csproj.CopyComplete
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\obj\Debug\MenuHistoricoView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\MenuHistoricoView\obj\Debug\MenuHistoricoView.pdb

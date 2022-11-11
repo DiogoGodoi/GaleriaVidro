@@ -16,3 +16,21 @@ C:\Users\diogo\Desktop\Controle de Estoque\CadastrarUsuarioView\obj\Debug\Cadast
 C:\Users\diogo\Desktop\Controle de Estoque\CadastrarUsuarioView\obj\Debug\CadastrarUsuarioView.csproj.CopyComplete
 C:\Users\diogo\Desktop\Controle de Estoque\CadastrarUsuarioView\obj\Debug\CadastrarUsuarioView.exe
 C:\Users\diogo\Desktop\Controle de Estoque\CadastrarUsuarioView\obj\Debug\CadastrarUsuarioView.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\bin\Debug\CadastrarUsuarioView.exe.config
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\bin\Debug\CadastrarUsuarioView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\bin\Debug\CadastrarUsuarioView.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\bin\Debug\UsuariosControler.dll
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\bin\Debug\UsuariosModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\bin\Debug\Conexao.dll
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\bin\Debug\UsuariosControler.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\bin\Debug\UsuariosModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\bin\Debug\Conexao.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\obj\Debug\CadastrarUsuarioView.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\obj\Debug\CadastrarUsuarioView.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\obj\Debug\CadastrarUsuarioView.frmCadastrarUsuario.resources
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\obj\Debug\CadastrarUsuarioView.Properties.Resources.resources
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\obj\Debug\CadastrarUsuarioView.csproj.GenerateResource.cache
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\obj\Debug\CadastrarUsuarioView.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\obj\Debug\CadastrarUsuarioView.csproj.CopyComplete
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\obj\Debug\CadastrarUsuarioView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\CadastrarUsuarioView\obj\Debug\CadastrarUsuarioView.pdb

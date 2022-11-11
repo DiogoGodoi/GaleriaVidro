@@ -16,3 +16,21 @@ C:\Users\diogo\Desktop\Controle de Estoque\HistoricoView\obj\Debug\HistoricoView
 C:\Users\diogo\Desktop\Controle de Estoque\HistoricoView\obj\Debug\HistoricoView.csproj.CopyComplete
 C:\Users\diogo\Desktop\Controle de Estoque\HistoricoView\obj\Debug\HistoricoView.exe
 C:\Users\diogo\Desktop\Controle de Estoque\HistoricoView\obj\Debug\HistoricoView.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\bin\Debug\HistoricoView.exe.config
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\bin\Debug\HistoricoView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\bin\Debug\HistoricoView.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\bin\Debug\HistoricoControle.dll
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\bin\Debug\HistoricoModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\bin\Debug\Conexao.dll
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\bin\Debug\HistoricoControle.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\bin\Debug\HistoricoModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\bin\Debug\Conexao.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\obj\Debug\HistoricoView.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\obj\Debug\HistoricoView.csproj.SuggestedBindingRedirects.cache
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\obj\Debug\HistoricoView.TelaHistorico.resources
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\obj\Debug\HistoricoView.Properties.Resources.resources
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\obj\Debug\HistoricoView.csproj.GenerateResource.cache
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\obj\Debug\HistoricoView.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\obj\Debug\HistoricoView.csproj.CopyComplete
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\obj\Debug\HistoricoView.exe
+C:\Users\diogo\Desktop\GaleriaVidro\HistoricoView\obj\Debug\HistoricoView.pdb

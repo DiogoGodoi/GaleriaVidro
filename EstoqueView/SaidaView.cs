@@ -136,8 +136,6 @@ namespace EstoqueView
         private void btnRemover_Click(object sender, EventArgs e)
         {
             listSaida.SelectedItems[0].Remove();
-            list.RemoveAt();
-            
         }
     }
 }

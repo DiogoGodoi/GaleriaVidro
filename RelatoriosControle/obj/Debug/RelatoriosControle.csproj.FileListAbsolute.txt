@@ -14,3 +14,19 @@ C:\Users\diogo\Desktop\Controle de Estoque\RelatoriosControle\obj\Debug\Relatori
 C:\Users\diogo\Desktop\Controle de Estoque\RelatoriosControle\obj\Debug\RelatoriosControle.csproj.CopyComplete
 C:\Users\diogo\Desktop\Controle de Estoque\RelatoriosControle\obj\Debug\RelatoriosControle.dll
 C:\Users\diogo\Desktop\Controle de Estoque\RelatoriosControle\obj\Debug\RelatoriosControle.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\bin\Debug\RelatoriosControle.dll
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\bin\Debug\RelatoriosControle.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\bin\Debug\HistoricoControle.dll
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\bin\Debug\itextsharp.dll
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\bin\Debug\HistoricoModel.dll
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\bin\Debug\Conexao.dll
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\bin\Debug\HistoricoControle.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\bin\Debug\itextsharp.xml
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\bin\Debug\HistoricoModel.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\bin\Debug\Conexao.pdb
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\obj\Debug\RelatoriosControle.csproj.AssemblyReference.cache
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\obj\Debug\RelatoriosControle.csproj.CoreCompileInputs.cache
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\obj\Debug\RelatoriosControle.csproj.CopyComplete
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\obj\Debug\RelatoriosControle.dll
+C:\Users\diogo\Desktop\GaleriaVidro\RelatoriosControle\obj\Debug\RelatoriosControle.pdb
